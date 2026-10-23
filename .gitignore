@@ -1,0 +1,12 @@
+# Raw data is downloaded at runtime from JeffSackmann/tennis_atp
+tennis_atp/
+notebooks/tennis_atp/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Saved models
+*.joblib
+*.pkl
